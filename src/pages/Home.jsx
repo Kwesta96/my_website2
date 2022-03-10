@@ -5,7 +5,7 @@ import PageHeader from '../components/pageHeader/PageHeader'
 export default function Home() {
   return (
     <div className='home'>
-      <PageHeader/>
+      {/* <PageHeader/> */}
         <Intro/>
     </div>
   )
